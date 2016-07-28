@@ -1,0 +1,16 @@
+Necessary volumes:
+             AcetylsalicylicAcid        0.408 mL
+                          Buffer        2.246 mL
+               HumanSerumAlbumin        1.180 mL
+                 Naproxen Sodium        0.406 mL
+                           Water        2.400 mL
+Expected waste (3% of total):
+             AcetylsalicylicAcid        0.012 mL
+                          Buffer        0.067 mL
+               HumanSerumAlbumin        0.035 mL
+                 Naproxen Sodium        0.012 mL
+                           Water        0.072 mL
+AcetylsalicylicAcid 11.1665 mM
+('HSA', <Quantity(0.0406798072711, 'millimolar')>)
+Naproxen Sodium 10.0754 mM
+('HSA', <Quantity(0.0406798072711, 'millimolar')>)
